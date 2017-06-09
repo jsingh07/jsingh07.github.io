@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Hi! Welcome to my little place on the internet!
+## Me
+I recently received my Bachelor's degree in Computer Science from UC Davis. I first started after as a biosci major but switched my third year as I wanted something more fun and hands-on. I wanted to create stuff, and having an interest in technology lead me into switching to Computer Science. I enjoyed my long hours in the basement of Kemper Hall working on projects with my friends.
 
-You can use the [editor on GitHub](https://github.com/jsingh07/jsingh07.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## My Experiences
+I am most familiar with C/C++. I have worked on various scripts and a linux shell. Recently the past year I started learning web development. Through creating two sites I learned PHP, HTML, CSS, Javascript and jQuery. One of my most recent projects Pinoram.com is my favorite. It’s a site meant for people to showcase their beautiful pictures from their various trips around the world. I have also worked on some fun stuff like recreating Flappy Bird in CUSP assembly and a couple of simple Android apps.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jsingh07/jsingh07.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## My Hobbies
+- Hiking
+- Lifting
+- Eating
+- Watching movies
+- Overwatch (but Im not too good)
