@@ -1,13 +1,20 @@
 # Welcome to my little place on the internet!
 ## Me
-I recently received my Bachelor's degree in Computer Science from UC Davis. I first started after as a biosci major but switched my third year as I wanted something more fun and hands-on. I wanted to create stuff, and having an interest in technology lead me into switching to Computer Science. I enjoyed my long hours in the basement of Kemper Hall working on projects with my friends.
+I recently received my Bachelor's degree in Computer Science from UC Davis. I first started as a bioscience major but switched to CS in my third year. I wanted a career where I could be more involved and hands-on. My passion in technology and interest in the creative process behind software development lead me to switching my major to CS. I enjoyed my long hours in the basement of Kemper Hall working on projects with my friends and hope to work for an organization where I can continue to enjoy the work I do.
 
-## My Experiences
-I am most familiar with C/C++. I have worked on various scripts and a linux shell. Recently the past year I started learning web development. Through creating two sites I learned PHP, HTML, CSS, Javascript and jQuery. One of my most recent projects Pinoram.com is my favorite. It’s a site meant for people to showcase their beautiful pictures from their various trips around the world. I have also worked on some fun stuff like recreating Flappy Bird in CUSP assembly and a couple of simple Android apps.
+I love to learn! I wish to work in a place where I can sharpen my skills and acquire new ones. I find that I would thrive in an environment of collaboration, working alongside people that are new to the industry and experts in it. More than anything else I want grow as a programmer and meet amazing people.
 
-## My Hobbies
+## My experience
+I am most familiar with C/C++. I have worked on various linux command line programs and a linux shell. Recently, in the past year I started learning web development. In my process of creating two sites, I learned PHP, HTML, CSS, Javascript and jQuery. One of my most recent projects Pinoram.com is my favorite. It’s a site meant for people to showcase pictures from their various trips around the world. I have also worked on some fun projects like recreating Flappy Bird in CUSP assembly and a couple of simple Android apps.
+
+## My hobbies
 - Hiking
 - Lifting
-- Eating
-- Watching movies
-- Overwatch (but Im not too good)
+- Foodie
+- Movie fanatic
+- Video Games
+
+## Resume
+If you would like to contact me please email at jagdeep9407@gmail.com
+
+If you would like a copy of my resume [click here](https://drive.google.com/file/d/0BzyHoNNNRuZjRlRhQ2dKUVNRYlU/view?usp=sharing)
