@@ -1,4 +1,4 @@
-# Hi! Welcome to my little place on the internet!
+# Welcome to my little place on the internet!
 ## Me
 I recently received my Bachelor's degree in Computer Science from UC Davis. I first started after as a biosci major but switched my third year as I wanted something more fun and hands-on. I wanted to create stuff, and having an interest in technology lead me into switching to Computer Science. I enjoyed my long hours in the basement of Kemper Hall working on projects with my friends.
 
