@@ -20,4 +20,4 @@ Currently I am learning a little bit of Node and React with some Swift thrown in
 ## Resume
 If you would like to contact me please email me at jagdeep9407@gmail.com
 
-If you would like a copy of my resume [click here](https://drive.google.com/file/d/0BzyHoNNNRuZjRlRhQ2dKUVNRYlU/view?usp=sharing)
+If you would like a copy of my resume [click here](https://drive.google.com/file/d/0BzyHoNNNRuZjTDU0V05tZzY4MTg/view?usp=sharing)
