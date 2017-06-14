@@ -33,5 +33,7 @@ mounting and manipulating FAT file system images.
 
 ## Single cycle, Multi-cycle, and five staged pipelined MIPS CPU in Logisim:
 - Emulated MIPS CPU in Logisim circuit design
-- Took MIPS opcodes and executed instructions Flappy Bird in CUSP assembly:
+- Took MIPS opcodes and executed instructions 
+
+## Flappy Bird in CUSP assembly:
 - Flappy Bird the game in an emulated CUSP assembly language
